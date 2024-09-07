@@ -1,0 +1,5 @@
+R, Single Room,      1300
+R, Twin Room,        1800
+R, Triple Room,      2400
+R, Single Dorm Bed,   600
+M, Breakfast,         250
